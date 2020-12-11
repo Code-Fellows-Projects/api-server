@@ -35,5 +35,4 @@ describe('Food Model', () => {
 
 
 
-// "mongodb+srv://<username>:<password>@cluster0.wdmss.mongodb.net/<database-name>
-//mongodb+srv://stacyjane:Catvonde234!@cluster0.vqmld.mongodb.net/test"
+
