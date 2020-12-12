@@ -11,6 +11,6 @@ const cheesecakeSchema = mongoose.Schema({
 });
 
 // export schema as a model
-const cheesecakeModel = mongoose.model('food', cheesecakeSchema);
+const cheesecakeModel = mongoose.model('cake', cheesecakeSchema);
 
 module.exports = cheesecakeModel;
